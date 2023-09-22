@@ -2,3 +2,5 @@
  Demo for Git
 
 Howard is an excellent cook!
+
+I have a cute cat.
